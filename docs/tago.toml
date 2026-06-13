@@ -1,0 +1,10 @@
+title       = "cses"
+baseURL     = "https://cses-cli.tamnd.com/"
+description = "Browse CSES competitive programming problem set"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cses-cli"
